@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<homebank v="0.59999999999999998">
+<properties title="Joen" car_category="0" auto_nbdays="0"/>
+<account key="2" flags="0" pos="2" type="2" name="現金" number="" bankname="" initial="2670" minimum="0" cheque1="0" cheque2="0"/>
+<account key="1" flags="0" pos="1" type="1" name="00811500159623" number="Joen" bankname="中華郵政" initial="114101" minimum="0" cheque1="0" cheque2="0"/>
+<pay key="2" name="自己"/>
+<pay key="1" name="涂肥"/>
+<cat key="2" parent="0" flags="8" name="零食、宵夜" b0="1000"/>
+<cat key="1" parent="0" flags="8" name="早中晚餐" b0="4500"/>
+<ope date="734424" amount="-3000" account="1" dst_account="0" paymode="3" flags="0" payee="2" category="0" wording="買藥" info="" tags="" kxfer="0" />
+<ope date="734434" amount="-3000" account="1" dst_account="0" paymode="4" flags="0" payee="1" category="0" wording="借錢" info="" tags="" kxfer="0" />
+</homebank>
